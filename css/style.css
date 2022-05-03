@@ -1,0 +1,64 @@
+body {
+    font-family: monospace;
+}
+
+.header {
+    color: salmon;
+    font-size: 50px;
+    padding: 30px;
+    border: 10px solid salmon;
+    font-family: monospace;
+}
+
+.page {
+    padding: 10px;
+    background-color: aquamarine;
+    font-family: monospace;
+}
+
+ul li {
+    list-style: none;
+    margin: 30px;
+    color: slategray;
+    font-size: medium;
+    font-weight: bolder;
+    font-family: monospace;
+}
+
+p {
+    font-size: 17px;
+    font-weight: bolder;
+    color: slategray;
+    font-family: monospace;
+}
+
+button {
+    padding: 10px;
+    background-color: white;
+    color: salmon;
+    width: 150px;
+    text-align: center;
+    text-transform: uppercase;
+    border: 0;
+    font-weight: bolder;
+    font-size: large;
+    margin: 10px;
+    font-family: monospace;
+}
+
+li {
+    text-decoration: none;
+}
+
+.h2 {
+    color: salmon;
+    font-family: monospace;
+}
+
+input {
+    padding: 10px;
+    color: salmon;
+    border: 2px solid salmon;
+    font-weight: bolder;
+    font-family: monospace;
+}
