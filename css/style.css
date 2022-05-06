@@ -37,8 +37,8 @@ p {
 
 h4 {
     font-family: monospace;
-    border-left: 30px solid slategray;
-    border-right: 30px solid slategray;
+    border-left: 25px solid slategray;
+    border-right: 25px solid slategray;
     color: white;
     padding: 10px;
     text-transform: uppercase;
@@ -79,4 +79,16 @@ input {
 
 .flexing {
     display: flex;
+}
+
+.timer {
+    width: 70px;
+}
+
+.flex {
+    display: flex
+}
+
+.list {
+    list-style: georgian;
 }
